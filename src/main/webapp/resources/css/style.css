@@ -1,0 +1,18 @@
+*{margin: 0px;
+    padding: 0px;}
+img.anhchitiet {
+    height: 437px;
+    width: 100%;
+    position: absolute;
+    left: -20px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 19px 13px 17px 0px #e6dfd6b8;
+    border: beige;
+    border-radius: 36px;
+    margin-left: 19px;
+}
+a.fa.fa-plus.icon {
+    text-decoration: none;
+    color: #f0ad4e;
+}
